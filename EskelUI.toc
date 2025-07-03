@@ -1,0 +1,17 @@
+## Interface: 110107
+## Title: EskelUI
+## Notes: Addon created by Eskel.
+## Author: EskelNJ
+## Version: 1.0.0
+## RequiredDeps:
+## X-Curse-Project-ID: 999999
+## SavedVariables:
+## SavedVariablesPerCharacter:EskelUIDB
+# Libraries
+libs/Ace3/AceAddon-3.0/AceAddon-3.0.lua
+libs/Ace3/AceDB-3.0/AceDB-3.0.lua
+libs/LibDBIcon-1.0/embeds.xml
+
+# Main Files
+EskelUI.lua
+Settings.lua
