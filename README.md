@@ -23,16 +23,6 @@
 2. Move the `EskelUI` folder to your WoW AddOns directory: World of Warcraft/retail/Interface/AddOns/
 3. Launch WoW and enable the addon in the character selection screen.
 
-## 💾 Dependencies
-
-This addon uses the following libraries:
-
-- [Ace3 (AceAddon-3.0)](https://www.wowace.com/projects/ace3)
-- [LibDataBroker-1.1](https://www.wowace.com/projects/libdatabroker-1-1)
-- [LibDBIcon-1.0](https://www.wowace.com/projects/libdbicon-1-0)
-
-Make sure they are available in your environment or embedded in your addon package.
-
 ## 🧪 Slash Commands
 
 - `/eskel` — Opens or closes the main interface.
